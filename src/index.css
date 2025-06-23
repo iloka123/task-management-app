@@ -231,3 +231,9 @@ body {
   resize: vertical;
   box-sizing: border-box;
 }
+/* Dark mode styling for description textarea */
+.dark .task-textarea {
+  background-color: #3a3a3a;
+  color: #f2f2f2;
+  border-color: #555;
+}
